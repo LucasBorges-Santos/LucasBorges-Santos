@@ -1,4 +1,4 @@
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LucasBorges-Santos)](https://github.com/LucasBorges-Santos/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasborges-santos&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasborges-santos&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **LucasBorges-Santos/LucasBorges-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
