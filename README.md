@@ -12,10 +12,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasBorges-Santos&theme=github-dark-blue" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBorges-Santos&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
